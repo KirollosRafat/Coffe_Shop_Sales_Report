@@ -22,6 +22,15 @@ decision-making.
 -   **Total Profit** -- \$698.81K across all stores.
 -   **Profit Trends** -- Profits steadily increased from **82K in
     January** to **166K in June**.
+## 📂 File Structure
+
+-   `Coffee_Shop_Sales_Report.pbix` → Main Power BI report.
+-   `README.md` → Project documentation.
+-   `Dashboard_Screenshot`.
+-   `Coffee Shope Sales Dataset`.
+
+## 📸 Dashboard Preview 
+![Coffee Shop Sales Dashboard](Dashboard_Screenshot.PNG)`
 
 ## 🛠️ Tools Used
 
@@ -35,17 +44,3 @@ decision-making.
 2.  Open it in **Power BI Desktop**.
 3.  Explore interactive dashboards using filters and slicers.
 
-## 📂 File Structure
-
--   `Coffee_Shop_Sales_Report.pbix` → Main Power BI report.
--   `README.md` → Project documentation.
--   `Dashboard_Screenshot`.
--   `Coffee Shope Sales Dataset`.
-
-## 📸 Dashboard Preview 
-![Coffee Shop Sales Dashboard](Dashboard_Screenshot.PNG)`
-
--   Add customer demographic analysis.\
--   Include forecast modeling for sales trends.\
--   Integrate external datasets (e.g., weather, holidays) for deeper
-    insights.
